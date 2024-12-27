@@ -5,3 +5,5 @@ example
 var: int = int(input("enter a number"))
 
 """
+
+print(lp)
